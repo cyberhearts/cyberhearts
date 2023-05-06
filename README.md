@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, Java and machine learning
+- 🌱 I’m currently learning Python, Java
+- 📚 Django
 - ⚡ Fun fact: I love coding
 
